@@ -39,3 +39,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # user authentication
 gem "devise", "~> 4.8"
+
+# use .env
+gem "dotenv-rails", "~> 2.7"
